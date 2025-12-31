@@ -18,7 +18,7 @@ An efficient, lightweight, and professional C library for the **Kionix KX032-102
 ## 📂 Installation
 1.  Clone this repository into your project's `Drivers/Hardware` folder:
     ```bash
-    git clone [https://github.com/your-username/KX032-STM32-LL-Driver.git](https://github.com/your-username/KX032-STM32-LL-Driver.git)
+    git clone [https://github.com/JavidTahery/KX032-STM32.git](https://github.com/JavidTahery/KX032-STM32.git)
     ```
 2.  Include `kx032_ll.h` in your `main.c`.
 3.  Add the source files to your IDE project path.
@@ -27,11 +27,4 @@ An efficient, lightweight, and professional C library for the **Kionix KX032-102
 ```c
 #include "kx032_ll.h"
 
-// Initialize the sensor
-if (KX032_Init(I2C1) == KX032_OK) {
-    // Sensor is ready!
-}
-
-// Read acceleration data
-KX032_Data_t data;
-KX032_ReadAccel(&data);
+...
