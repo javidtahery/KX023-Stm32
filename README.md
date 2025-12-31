@@ -6,7 +6,7 @@ for this repository this code is used: https://github.com/nguyenmanhthao996tn/Ki
 
 ## 🚀 Key Features
 * **Performance:** Built with STM32 LL drivers for minimal memory footprint and high execution speed.
-* **Platform:** Optimized for STM32 (tested on Series like F1, F4, and L4).
+* **Platform:** Optimized for STM32 (tested on F4).
 * **Functionality:** Full support for G-range selection, Output Data Rate (ODR) configuration, and I2C communication.
 * **Portability:** Easy to integrate into STM32CubeIDE, Keil uVision, or IAR.
 
