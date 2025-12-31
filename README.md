@@ -2,7 +2,7 @@
 
 An efficient, lightweight, and professional C library for the **Kionix KX032-1021** accelerometer, specifically designed for **STM32** microcontrollers using the **Low-Layer (LL) APIs**.
 
-
+for this repository this code is used: https://github.com/nguyenmanhthao996tn/Kionix_KX023
 
 ## 🚀 Key Features
 * **Performance:** Built with STM32 LL drivers for minimal memory footprint and high execution speed.
